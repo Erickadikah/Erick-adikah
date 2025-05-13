@@ -37,4 +37,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Erickadikah&show_icons=true&locale=en" alt="Erick adikah" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Erickadikah&" alt="Erick adikah" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erickadikah&show_icons=true&locale=en&layout=compact" alt="Erick adikah" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Erickadikah" alt="Erick adikah" /></a></p>
+<!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Erickadikah" alt="Erick adikah" /></a></p> -->
