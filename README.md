@@ -34,7 +34,7 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/@erick_adikah" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/http://www.linkedin.com/in/erick-adikah-a62055234" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Erick adikah&show_icons=true&locale=en" alt="Erick adikah" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Erick adikah&" alt="Erick adikah" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erick adikah&show_icons=true&locale=en&layout=compact" alt="Erick adikah" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Erick adikah" alt="Erick adikah" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Erickadikah&show_icons=true&locale=en" alt="Erick adikah" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Erickadikah&" alt="Erick adikah" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erickadikah&show_icons=true&locale=en&layout=compact" alt="Erick adikah" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Erickadikah" alt="Erick adikah" /></a></p>
