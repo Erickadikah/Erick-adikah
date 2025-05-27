@@ -20,8 +20,7 @@
 
 ###
 
-<p align="left">I'm a versatile professional with experience in both software development and graphic design. I specialise in working with APIs and databases and building functional backend systems while also bringing creative vision to life through visual media. Over the past three years, I've designed impactful logos, engaging flyers, eye-catching banners, and professional business cards for diverse clients. Whether coding or creating, I aim to blend functionality with creativity in every project.</p>
-
+<p align="left">I'm a versatile professional with a background in software development and graphic design. I specialize in building functional backend systems with APIs and databases, while also creating compelling visuals. With 3+ years of experience, I bring a unique blend of technical precision and creative flair to every project</p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
